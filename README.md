@@ -45,7 +45,7 @@ My extracurricular involvement is deliberately broad and high-intensity, spannin
 | E-Summit IIT Madras | Summit | Special Invite | Was invited to the E-Summit as a final stage participant at IIT Madras |
 | CYFI Internship | Internship | Selected | Will be building a robotics community forum with CYFI NESTA Toys. |
 
-## Projects
+# Projects
 
 My project work is currently centred around one flagship system, SmartPark, as well as Project_Numidia, my next moderately big project, supported by a few smaller exploratory builds that served primarily as learning and experimentation phases.
 
@@ -54,5 +54,6 @@ SmartPark is an end-to-end intelligent parking management system designed to add
 
 Alongside SmartPark, I have worked on a small number of exploratory projects focused on testing specific ideas or technologies, many made for hackathons. These builds were intentionally limited in scope and were used to gain hands-on familiarity with hardware integration, logic flow, and rapid prototyping. While not flagship efforts, they contributed to the technical foundation that enabled the execution of SmartPark at a larger and more structured level.
 
+#Hackatime Stats
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=26243&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
