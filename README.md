@@ -32,7 +32,7 @@ Hi, I’m Pratham, a student at Army Public School Bolarum and a Vice-Captain at
 
 # Extracurriculars
 
-My extracurricular involvement is deliberately broad and high-intensity, spanning innovation challenges and hackathons. In the 2025–26 academic year alone, I actively participated in multiple technology, innovation, and academic events, with several progressing beyond initial rounds.
+My extracurricular involvement is deliberately broad and high-intensity, spanning innovation challenges and hackathons. In the 2025–26 academic year alone, I actively participated in multiple technology, innovation, and academic events, with several progressing beyond initial rounds. [Last updated Jan 2026]
 
 | Activity / Competition | Category | Level Reached | Outcome / Status |
 | --- | --- | --- | --- |
@@ -43,7 +43,6 @@ My extracurricular involvement is deliberately broad and high-intensity, spannin
 | Nerds Room AI Clash Campus Ambassador. | Internship | Selected | Selected as Campus Ambassador for Nerds Room. |
 | Battle of Wits 2026 IIT Madras | Business Case Study | Final stage at IIT Madras | Qualified for the Final Stage at E-Summit IIT Madras. |
 | E-Summit IIT Madras | Summit | Special Invite | Was invited to the E-Summit as a final stage participant at IIT Madras |
-| CYFI Internship | Internship | Selected | Will be building a robotics community forum with CYFI NESTA Toys. |
 
 # Projects
 
