@@ -39,6 +39,5 @@ My extracurricular involvement is deliberately broad and high-intensity, spannin
 | Bharat Innovation Challenge 2025 by LPU | Innovation | Final Stage | Qualified for Stage 2, competing with the top 50 teams from across the country at LPU. |
 | Big Bang 2026 | Innovation | Top 20 Hall of Fame Teams | Made it into the Top 20 Hall of Fame Teams out of 162 at the last round held at Coimbatore. |
 | MethdAI Hackathon 2025 | Hackathon | Final Stage | 4th in final round. |
-| Autonomous Hacks 26 | Hackathon | Final Stage | Qualified for Stage 2, in top 15% of participants (including many professionals). |
 | Battle of Wits 2026 IIT Madras | Business Case Study | Final stage at IIT Madras | Qualified for the Final Stage at E-Summit IIT Madras. |
 | E-Summit IIT Madras | Summit | Special Invite | Was invited to the E-Summit as a final stage participant at IIT Madras |
